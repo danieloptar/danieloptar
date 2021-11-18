@@ -1,18 +1,7 @@
-<h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A passionate developer from Spain</h3>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=lopdan&theme=onedark&rank=AAA,SECRET,B,C)](https://github.com/ryo-ma/github-profile-trophy)
-
-- 🔭 I’m currently working on [Stadler](https://www.stadlerrail.com/en/)
-
-- 📫 How to reach me **danieloptar@gmail.com**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> : CHIP-8 Emulator
-
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=lopdan&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=lopdan&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=lopdan&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lopdan&show_icons=true&locale=en&layout=compact" alt="lopdan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lopdan&" alt="lopdan" /></p>
