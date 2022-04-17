@@ -7,27 +7,57 @@
 
 # Repositories
 
-C / C++:
-* [Chip-8 Emulator](https://github.com/lopdan/chip8-emulator)
-* [Database](https://github.com/lopdan/database)
-* [Container](https://github.com/lopdan/container)
-* [Sockets](https://github.com/lopdan/sockets)
+<details>
+<summary><strong>C/C++:</strong></summary>
+<br>
+  <ul>
+    <li><a href="https://github.com/lopdan/chip8-emulator">Chip-8 Emulator</a></li>
+    <li><a href="https://github.com/lopdan/database">Database</a></li>
+    <li><a href="https://github.com/lopdan/container">Container</a></li>
+    <li><a href="https://github.com/lopdan/sockets">Sockets</a></li>
+  </ul>
+</details>
 
-Javascript:
-* [CryptoWorld](https://github.com/lopdan/cryptoworld)
-* [Covid19 cases tracker](https://github.com/lopdan/covid19-cases-tracker)
-* [AI Alan React Bitcoin](https://github.com/lopdan/ai-alan-react-bitcoin)
+<details>
+<summary><strong>Javascript:</strong></summary>
+<br>
+  <ul>
+    <li><a href="https://github.com/lopdan/cryptoworld">CryptoWorld</a></li>
+    <li><a href="https://github.com/lopdan/covid19-cases-tracker">Covid19 cases tracker</a></li>
+    <li><a href="https://github.com/lopdan/ai-alan-react-bitcoin">AI Alan React Bitcoin</a></li>
+  </ul>
+</details>
 
-Python:
-* [HandTracker](https://github.com/lopdan/handTracker)
-* [Simple Neural Network](https://github.com/lopdan/simple-neural-network)
+<details>
+<summary><strong>Python:</strong></summary>
+<br>
+  <ul>
+    <li><a href="https://github.com/lopdan/handTracker">HandTracker</a></li>
+    <li><a href="https://github.com/lopdan/simple-neural-network">Simple Neural Network</a></li>
+  </ul>
+</details>
 
-Go:
-* [URL Shortener microservice](https://github.com/lopdan/url-shortener)
-* [Container](https://github.com/lopdan/container)
+<details>
+<summary><strong>Go:</strong></summary>
+<br>
+  <ul>
+    <li><a href="https://github.com/lopdan/url-shortener">URL Shortener microservice</a></li>
+    <li><a href="https://github.com/lopdan/container">Container</a></li>
+  </ul>
+</details>
 
-C#:
-* [PSW (Cardgame)](https://github.com/hecmerod/PSW)
+<details>
+<summary><strong>C#:</strong></summary>
+<br>
+  <ul>
+    <li><a href="https://github.com/hecmerod/PSW">PSW (Cardgame)</a></li>
+  </ul>
+</details>
 
-Haskell:
-* [IRC Bot](https://github.com/lopdan/irc-bot)
+<details>
+<summary><strong>Haskell:</strong></summary>
+<br>
+  <ul>
+    <li><a href="https://github.com/lopdan/irc-bot">IRC Bot</a></li>
+  </ul>
+</details>
