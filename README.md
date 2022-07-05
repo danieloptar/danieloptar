@@ -33,6 +33,7 @@
 <br>
   <ul>
     <li><a href="https://github.com/lopdan/handTracker">HandTracker</a></li>
+    <li><a href="https://github.com/lopdan/ml_training">ML Study</a></li>
     <li><a href="https://github.com/lopdan/simple-neural-network">Simple Neural Network</a></li>
   </ul>
 </details>
